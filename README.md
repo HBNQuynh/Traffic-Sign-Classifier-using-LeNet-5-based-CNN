@@ -1,1 +1,1 @@
-# Parallel-chess-engine
+# Parallelize KMeans - BIG5 personality clustering
